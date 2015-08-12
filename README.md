@@ -1,2 +1,2 @@
 # Nex
-Nex Programming Language
+The Nex Programming Language
